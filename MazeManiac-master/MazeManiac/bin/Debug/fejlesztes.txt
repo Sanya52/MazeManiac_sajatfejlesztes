@@ -1,0 +1,7 @@
+Patch notes (2021.03.28):
+Lépésszámláló változó
+Segítség parancs a h-betűvel
+Játék névvel vagy anoníman
+Txt (ezaz) fájlból beolvassa a változtatásokat az e betű lenyomása után
+Kiszínezi a Consolt kékre
+
